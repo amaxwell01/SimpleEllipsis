@@ -18,6 +18,6 @@ Right now this only supports an ellipsis by character count vs my width/height o
     var originalString = 'This is a simple ellipsis script';
     var finalString = ellipsis( originalString, 25, '***' );
 
-**Output 2: **
+**Output 2:**
 
     finalString = 'This is a simple ellipsis***'
